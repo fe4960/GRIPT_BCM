@@ -1,6 +1,8 @@
 GRIPT: A novel cases-controls analysis method fro Mendelian disease gene discovery
 
-Rui Chen Lab, Baylor College of Medicine
+Wang, Jun; Zhao, Li; Wang, Xia; Chen, Yong; Xu, Mingchu; Soens, Zachry T.; Ge, Zhongqi; Wang, Peter Ronghan; Wang, Fei; Chen, Rui
+
+Baylor College of Medicine
 
 ######################
 download the package from github and unzip the folder
