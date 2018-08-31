@@ -56,7 +56,8 @@ preprocessing step
 
 -tools and data needed to run the preprocessing script:
 
-1. download the CADD score from the CADD websit
+1. download the CADD score from the CADD websit: https://cadd.gs.washington.edu/download
+including "All possible SNVs of GRCh37/hg19" and "48M InDels to initiate a local setup"  
 
 2. install tabix
 
