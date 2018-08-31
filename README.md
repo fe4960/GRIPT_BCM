@@ -50,9 +50,9 @@ Examples/control/AF0.005_N5000_out
 Examples/case/AF0.005_N600/RPE65_out/recessive_model.txt
 
 
-#######################################
+##############################
 preprocessing step
-#######################################
+##############################
 
 -tools and data needed to run the preprocessing script:
 
