@@ -97,19 +97,11 @@ Data/simulation_db/ExAC.r0.3.1_sort_nf.snpEff.score.screen.max0.0001
 
 Data/simulation_db/ExAC.r0.3.1_sort_nf.snpEff.score.screen.max0.005
 
-4)the protein change or splicing affect variants with max population allele frequency = 0.01 in ExAC database with CADD score and annotated by snpEff
-
-Data/simulation_db/ExAC.r0.3.1_sort_nf.snpEff.score.screen.max0.01
-
-5)the protein change or splicing affect variants with max population allele frequency = 0.02 in ExAC database with CADD score and annotated by snpEff
-
-Data/simulation_db/ExAC.r0.3.1_sort_nf.snpEff.score.screen.max0.02
-
-6)the protein change or splicing affect variants with max population allele frequency = 0.0001 in gnomAD WES database with CADD score and annotated by snpEff
+4)the protein change or splicing affect variants with max population allele frequency = 0.0001 in gnomAD WES database with CADD score and annotated by snpEff
 
 Data/simulation_db/gnomad_PASS_sort_subpop_snpEff_ns_All_CADD_all.screen_0.0001
 
-7)all the variants in gnomAD WES database with CADD score and annotated by snpEff
+5)all the variants in gnomAD WES database with CADD score and annotated by snpEff
 
 Data/simulation_db/gnomad_PASS_sort_subpop_snpEff_ns_All_CADD_all
 
