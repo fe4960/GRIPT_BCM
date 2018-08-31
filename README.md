@@ -1,4 +1,4 @@
-GRIPT: A novel cases-controls analysis method fro Mendelian disease gene discovery
+GRIPT: A novel case-control analysis method for Mendelian disease gene discovery
 
 Wang, Jun; Zhao, Li; Wang, Xia; Chen, Yong; Xu, Mingchu; Soens, Zachry T.; Ge, Zhongqi; Wang, Peter Ronghan; Wang, Fei; Chen, Rui
 
