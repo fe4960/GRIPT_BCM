@@ -71,7 +71,7 @@ perl 1preprocess_vcf.pl
 
 -example command to run the preprocessing script
 
-perl 1preprocess_vcf.pl -i Examples/case/AF0.02_N2_vcf  -o Examples/case/AF0.02_N2_score -sfj ~/software/snpEff/snpEff.jar -sfc ~/software/snpEff/snpEff.config -rt Atlas -cd_snp /storage/novaseq/backup_jw/CADD_score/whole_genome_SNVs.tsv.gz  -cd_ind /storage/novaseq/backup_jw/CADD_score/InDels.tsv.gz  -gn Data/gnomad/gnomad_exomes_r2.0.1.sites_sort_5-26-2017.gz
+perl 1preprocess_vcf.pl -i Examples/case/AF0.02_N2_vcf  -o Examples/case/AF0.02_N2_score -sfj snpEff/snpEff.jar -sfc snpEff/snpEff.config -rt Atlas -cd_snp CADD_score/whole_genome_SNVs.tsv.gz  -cd_ind CADD_score/InDels.tsv.gz  -gn Data/gnomad/gnomad_exomes_r2.0.1.sites_sort_5-26-2017.gz
 
 
 #####################################
