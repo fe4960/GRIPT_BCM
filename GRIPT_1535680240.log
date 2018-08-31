@@ -1,0 +1,15 @@
+start at: Thu Aug 30 20:50:40 CDT 2018
+
+input dir: Examples/case/AF0.02_N2_vcf
+filter with gnomad: Data/gnomad/gnomad_exomes_r2.0.1.sites_sort_5-26-2017.gz	freq cutoff: 0.005
+filter with read coverage: 1
+annotate CADD score: 1
+CADD_snp_db: /storage/novaseq/backup_jw/CADD_score/whole_genome_SNVs.tsv.gz
+CADD_indel_db: /storage/novaseq/backup_jw/CADD_score/InDels.tsv.gz
+Examples/case/AF0.02_N2_score_temp exists, is backuped as Examples/case/AF0.02_N2_score_temp_bak.1535680240
+make temp dir:Examples/case/AF0.02_N2_score_temp
+Examples/case/AF0.02_N2_score exists, is backuped as Examples/case/AF0.02_N2_score_bak.1535680240
+make output dir:Examples/case/AF0.02_N2_score
+start to process each vcf
+end time: Thu Aug 30 20:54:01 CDT 2018
+
