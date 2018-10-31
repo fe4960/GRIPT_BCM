@@ -5,9 +5,10 @@ Wang, Jun; Zhao, Li; Wang, Xia; Chen, Yong; Xu, Mingchu; Soens, Zachry T.; Ge, Z
 Baylor College of Medicine
 
 The GRIPT package is distributed under the GNU General Public License v3.0 
-######################
+
+####################
 download the package from github and unzip the folder
-########################
+####################
 
 tar -xvf Data.tar.gz
 
