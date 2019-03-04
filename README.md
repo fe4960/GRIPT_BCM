@@ -7,13 +7,18 @@ Baylor College of Medicine
 The GRIPT package is distributed under the GNU General Public License v3.0 
 
 ####################
-download the package from github and unzip the folder
-####################
+1. Download the GRIPT_BCM from github
+
+2.Download Data.tar.gz and Examples.tar.gz from https://zenodo.org/record/2583149#.XH1sucBKiJA
 
 tar -xvf Data.tar.gz
 
 tar -xvf Examples.tar.gz 
 
+3. move the unzipped "Data" and "Examples" folders (from 2.) to "GRIPT_BCM" folder
+
+mv Data  GRIPT_BCM
+mv Examples GRIPT_BCM
 
 ########################################
 GRIPT
