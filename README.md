@@ -13,7 +13,7 @@ The GRIPT package is distributed under the GNU General Public License v3.0
 
 tar -xvf Data.tar.gz
 
-tar -xvf Examples.tar.gz 
+tar -xvf Examples.tar.gz
 
 3. move the unzipped "Data" and "Examples" folders (from 2.) to "GRIPT_BCM" folder
 
