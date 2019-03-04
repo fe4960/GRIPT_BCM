@@ -18,6 +18,7 @@ tar -xvf Examples.tar.gz
 3. move the unzipped "Data" and "Examples" folders (from 2.) to "GRIPT_BCM" folder
 
 mv Data  GRIPT_BCM
+
 mv Examples GRIPT_BCM
 
 ########################################
