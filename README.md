@@ -1,9 +1,6 @@
 GRIPT: A novel case-control analysis method for Mendelian disease gene discovery
 
 Wang, Jun; Zhao, Li; Wang, Xia; Chen, Yong; Xu, Mingchu; Soens, Zachry T.; Ge, Zhongqi; Wang, Peter Ronghan; Wang, Fei; Chen, Rui
-
-Baylor College of Medicine
-
 Genome Biology volume 19, Article number: 203 (2018)
 
 The GRIPT package is distributed under the GNU General Public License v3.0 
