@@ -230,7 +230,7 @@ my $region = "$info[0]:$info[1]-$info[1]";
 $max_freq = get_gnomad_freq($opt_tabix,$opt_gnomad_db,$variant,$opt_tabix_output);
 $gnomad_freq{$variant} = $max_freq;
 }
-if($max_freq > $opt_freq_cutoff){
+if(($max_freq ne '.')&&($max_freq > $opt_freq_cutoff)){
 goto line1;
 }
 }
